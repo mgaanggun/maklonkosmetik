@@ -1,3 +1,0 @@
-/maklon-skincare/ /layanan/maklon-skincare/ 301
-/panduan/ /blog/ 301
-/panduan/* /blog/:splat 301
